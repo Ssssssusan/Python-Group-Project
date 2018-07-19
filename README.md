@@ -24,7 +24,7 @@
     test文件夹内，名称标记测试音频特征
 
 注意：
-  程序运行环境需求：需安装语音识别工具包、麦克风工具包
-  在cmd中运行如下两行代码：
-  pip install SpeechRecognition
-  pip install pyaudio
+    程序运行环境需求：需安装语音识别工具包、麦克风工具包
+    在cmd中运行如下两行代码：
+    pip install SpeechRecognition
+    pip install pyaudio
